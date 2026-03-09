@@ -1,6 +1,6 @@
 # 🚀 Java OOP Projects
 
-This repository contains two simple Java programs built with Java to demonstrate real-world applications of Object-Oriented Programming.  
+This repository contains two simple Java programs built with Java to demonstrate real-world applications of Object-Oriented Programming.
 
 ## 📂 Projects
 

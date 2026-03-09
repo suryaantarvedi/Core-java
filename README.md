@@ -22,5 +22,4 @@ It allows users to:
 - 📝 Display employee details with salary information
 - ❌ Remove employees by ID  
 
-## ▶️ How to Run
-1. Clone the repository: git clone https://github.com/suryaantarvedi/Core-java.git
+
